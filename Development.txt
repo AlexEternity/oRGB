@@ -1,2 +1,3 @@
 Qt 5.11.2
 compiler MCVS 2015 x64
+OS Windows
